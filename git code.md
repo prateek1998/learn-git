@@ -1,5 +1,5 @@
-echo "# Coding-Problems" >> README.md
-git config --global user.email "EMAIL ADDRESS"
+- echo "# Coding-Problems" >> README.md
+- git config --global user.email "EMAIL ADDRESS"
 git config --global user.name "YOUR NAME"
 git init
 git add README.md
